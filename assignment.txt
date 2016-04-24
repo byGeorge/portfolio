@@ -1,0 +1,24 @@
+Assignment: 
+
+You will be putting together a portfolio as a final aspect of your work at Westminster as described in the syllabus.  You may submit it here or provide information or a link on where it resides.  It may be a web site or shared in a similarly appropriate form.
+
+The portfolio serves several purposes:
+
+    First, it provides a place to accumulate work you have completed as your have taken classes towards your degree.
+    Second, it can allow you to demonstrate this work to potential employers and other people.
+    Finally, it provides feedback to us about what assignments and projects were helpful for you in achieving some of our program's learning goals.
+
+This portfolio will consist of five outstanding programming assignments you have completed while at Westminster. (This is addition to the resume and research project.) These items can be individual programming assignments, group projects, or even written reports from computer science classes.
+
+Each assignment will also consist of a 1-2 paragraph reflective summary describing why you chose that particular assignment.  In addition, you will explain how the assignment related to and helped you reach one or more of the Computer Science and/or College-wide learning goals.
+
+Ideally, at least one assignment (or your capstone project) addresses each of the four Computer Science learning goals.
+
+Use these program learning goals as a guide in choosing work that demonstrates your skills and knowledge in these areas:
+
+    Computer Science Learning Goals.pdfPreview the documentView in a new window 
+    the Westminster College-wide learning goals (Links to an external site.).
+
+The portfolio should also include an up-to-date resume. (You may blank out your GPA and any other information that you wish to remain private.)
+
+You must submit your portfolio electronically. You should put it on a site like Github and organize it like a web page that contains links to each of the items.  As the rubric shows, you need to use GitHub to receive full credit.
