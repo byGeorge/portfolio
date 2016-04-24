@@ -1,0 +1,11 @@
+.project
+.classpath
+*/bin/*
+bin/*
+.settings/*
+.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.synctex*
