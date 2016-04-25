@@ -50,4 +50,8 @@ class: Databases
 
 [Code](https://github.com/byGeorge/SuperHappyFunQuiz)
 
+The Super Happy Fun Quiz was designed as a database for the Big Shiny Geek Show Pub Quiz event held at a bar called Lucky 13. My partner provided the questions, and I wrote the database and the GUI. The GUI was written in Python and used the Django framework, using SQLite. The Super Happy Fun Quiz allowed user logins, kept high scores, and allowed the user to answer hundreds of quiz questions through the interface.
 
+I chose this document because it was the only larger assignment I had done in the [Python](http://pythong.org/) language.
+
+##Learning Goals
