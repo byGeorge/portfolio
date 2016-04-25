@@ -15,7 +15,7 @@ class: Software Development
 
 [Code](https://github.com/byGeorge/portfolio/tree/master/matherator/matherator-extreme-master)
 
-Matherator Extreme! Pretty Princess Edition was a group exercise with four members. My responsibility was the GUI. This was the first time I had completed a significant project with other people. Matherator Extreme! was written in Java, uses an SQLite database, and YAML for database parsing. 
+Matherator Extreme! Pretty Princess Edition was a group exercise with four members. My responsibility was the GUI. This demonstrated my ability to work in a team, and was the first time I had completed a significant project with other people. It also reinforced the need for testing, especially when combining code from three different people. Matherator Extreme! was written in Java, uses an sqlite database, and yaml. 
 
 ##1337 Chat Server
 
